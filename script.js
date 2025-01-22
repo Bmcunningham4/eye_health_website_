@@ -1,8 +1,10 @@
 // script.js
 const names = [
-    "Ben", 
-    "Cunners", 
+    "Ben",  
     "Player 1", 
+    "Player", 
+    "Human", 
+    "Mr.",
     "New User", 
     "Traveler", 
     "Stranger", 
