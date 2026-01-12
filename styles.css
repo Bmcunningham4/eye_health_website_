@@ -1,38 +1,36 @@
-/* styles.css */
 body {
-    background-color: black;
-    color: white;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    font-family: "Inter", sans-serif;
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0;
+  font-family: "Inter", sans-serif;
 }
 button {
-    padding: 5px 20px;
-    margin: 10px;
-    font-size: 16px;
-    background-color: #007bff;
-    color: white;
-    border: 2px white;
-    cursor: pointer;
-    border-radius: 10px;
-    /* box-shadow: 0 4px 6px rgb(73, 23, 255); */
-    font-family: "Kanit", sans-serif;
+  padding: 5px 20px;
+  margin: 10px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: 2px white;
+  cursor: pointer;
+  border-radius: 10px;
+  /* box-shadow: 0 4px 6px rgb(73, 23, 255); */
+  font-family: "Kanit", sans-serif;
 }
 
 button:hover {
-    transform: scale(1.05);
-    background-color: #003d80;
-    box-shadow: 0 0 12px rgba(0, 86, 179, 1);
-    /* outline: 2px solid #fff; */
+  transform: scale(1.05);
+  background-color: #003d80;
+  box-shadow: 0 0 12px rgba(0, 86, 179, 1);
+  /* outline: 2px solid #fff; */
 }
 
 #timer {
-    font-family: "Sixtyfour Convergence", sans-serif;
-
+  font-family: "Sixtyfour Convergence", sans-serif;
 }

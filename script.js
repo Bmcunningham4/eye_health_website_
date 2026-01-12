@@ -1,4 +1,3 @@
-// script.js
 const names = [
     "Ben",  
     "Player 1", 
@@ -23,7 +22,16 @@ const names = [
     "Fam", 
     "Fella", 
     "My guy", 
-    "NPC"
+    "NPC",
+    "goat",
+    "young fella",
+    "champ",
+    "chief",
+    "bossman",
+    "pal",
+    "amigo",
+    "clown",
+    "dude"
 ];
 
 
@@ -61,12 +69,3 @@ function startTimer() {
 document.getElementById('resetButton').addEventListener('click', startTimer);
 
 startTimer();
-
-// My attempt for button:
-//? I cracked this but for simplicity I'd rather just keep it as button yah 
-// const buttonBoy = document.getElementById('resetButton');
-// function changeButtonText() {
-//     const randomName = names[Math.floor(Math.random() * names.length)];
-//     buttonBoy.textContent = `Click me ${randomName}`;
-// }
-// buttonBoy.addEventListener('click', changeButtonText);
