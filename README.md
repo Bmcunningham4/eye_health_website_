@@ -1,4 +1,5 @@
 # eye_health_website_
+https://bmcunningham4.github.io/screen-eyes/
  
 # Mini Project Description:
 To maintain good eye health, it's essential to give your eyes regular breaks, especially when spending extended periods staring at screens. That's why I've implemented a simple but effective solution based on the 30/30/30 rule: for every 30 minutes of screen time, take a 30-second break by focusing on something at least 30 meters away. (modified from 20/20/20 rule)
